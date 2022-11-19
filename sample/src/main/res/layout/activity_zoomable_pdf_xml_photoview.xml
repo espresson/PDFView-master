@@ -16,6 +16,6 @@
         android:id="@+id/pdfViewPagerZoom"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:assetFileName="moby.pdf"/>
+        app:assetFileName="gongsi.pdf"/>
 </LinearLayout>
 
